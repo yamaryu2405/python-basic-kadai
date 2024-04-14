@@ -2,8 +2,6 @@ import random
 
 var = random.randint(1,100)
 
-var =15
-
 if var%3==0 and var%5 !=0:
 	print("Fizz")
 
