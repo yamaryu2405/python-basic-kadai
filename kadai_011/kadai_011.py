@@ -6,6 +6,6 @@ for value in array:
 
 count =0
 
-while  count < 8:
+while  count < 9:
 	print(array[count])
 	count +=1
